@@ -1,0 +1,16 @@
+{
+  "name": "expat-income-in-china",
+  "version": "1.0.0",
+  "description": "Calcuations app for Expats earning RMB and paying Tax in china",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Expat",
+    "Tax",
+    "Forex"
+  ],
+  "author": "Neo Lin",
+  "license": "ISC"
+}
